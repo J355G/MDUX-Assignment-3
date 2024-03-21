@@ -1,0 +1,29 @@
+{
+    "takeaways": [
+        {
+            "name": "Ben's Burgers",
+            "offers": [ "Free side of fries with each burger every Friday", "5% student discount for students on Wednesdays" ],
+            "description": [ "unhealthy", "quick" ]
+        },
+        {
+            "name": "The Chicken Shed",
+            "offers": [ "Every Thursday when you buy a bucket of wings, we'll throw in an extra bucket for free", "10% off on Fridays" ],
+            "description": [ "unhealthy", "quick" ]
+        },
+        {
+            "name": "Joe's Pizzeria",
+            "offers": [ "Buy one large pizza, get the second half price every Tuesday", "15% off for students" ],
+            "description": [ "unhealthy" ]
+        },
+        {
+            "name": "Dave's Desserts",
+            "offers": [ "Every Tuesday when you buy 2 doughnuts you get another half price", "Get 2 desserts for the price of 3 on Thursdays" ],
+            "description": [ "unhealthy", "Sweet" ]
+        },
+        {
+            "name": "Sid's Sandwich Shop",
+            "offers": [ "30% student discount", "On Mondays buy a sandwich and get a drink free", "Get a kids sandwich free when you spend £10 or more" ],
+            "description": [ "healthy", "quick" ]
+        }
+    ]
+}
