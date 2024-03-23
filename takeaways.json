@@ -6,25 +6,32 @@
             "description": [ "unhealthy", "quick" ],
             "openingHours": [
                 {
-                    "Monday": "11AM to 10PM"
+                    "day": "Monday",
+                    "hours": "11AM to 10PM"
                 },
                 {
-                    "Tuesday": "11AM to 9PM"
+                    "day": "Tuesday",
+                    "hours": "11AM to 9PM"
                 },
                 {
-                    "Wednesday": "10AM to 10PM"
+                    "day": "Wednesday",
+                    "hours": "10AM to 10PM"
                 },
                 {
-                    "Thursday": "11AM to 10PM"
+                    "day": "Thursday",
+                    "hours": "11AM to 10PM"
                 },
                 {
-                    "Friday": "10AM to 11PM"
+                    "day": "Friday",
+                    "hours": "10AM to 11PM"
                 },
                 {
-                    "Saturday": "10AM to 11PM"
+                    "day": "Saturday",
+                    "hours": "10AM to 11PM"
                 },
                 {
-                    "Sunday": "closed"
+                    "day": "Sunday",
+                    "hours": "closed"
                 }
             ]
         },
