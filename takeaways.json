@@ -3,27 +3,142 @@
         {
             "name": "Ben's Burgers",
             "offers": [ "Free side of fries with each burger every Friday", "5% student discount for students on Wednesdays" ],
-            "description": [ "unhealthy", "quick" ]
+            "description": [ "unhealthy", "quick" ],
+            "openingHours": [
+                {
+                    "Monday": "11AM to 10PM"
+                },
+                {
+                    "Tuesday": "11AM to 9PM"
+                },
+                {
+                    "Wednesday": "10AM to 10PM"
+                },
+                {
+                    "Thursday": "11AM to 10PM"
+                },
+                {
+                    "Friday": "10AM to 11PM"
+                },
+                {
+                    "Saturday": "10AM to 11PM"
+                },
+                {
+                    "Sunday": "closed"
+                }
+            ]
         },
         {
             "name": "The Chicken Shed",
             "offers": [ "Every Thursday when you buy a bucket of wings, we'll throw in an extra bucket for free", "10% off on Fridays" ],
-            "description": [ "unhealthy", "quick" ]
+            "description": [ "unhealthy", "quick" ],
+            "openingHours": [
+                {
+                    "Monday": "9AM to 9PM"
+                },
+                {
+                    "Tuesday": "11AM to 9PM"
+                },
+                {
+                    "Wednesday": "10AM to 10PM"
+                },
+                {
+                    "Thursday": "11AM to 10PM"
+                },
+                {
+                    "Friday": "10AM to 11PM"
+                },
+                {
+                    "Saturday": "10AM to 11PM"
+                },
+                {
+                    "Sunday": "11AM to 4PM"
+                }
+            ]
         },
         {
             "name": "Joe's Pizzeria",
             "offers": [ "Buy one large pizza, get the second half price every Tuesday", "15% off for students" ],
-            "description": [ "unhealthy" ]
+            "description": [ "unhealthy" ],
+            "openingHours": [
+                {
+                    "Monday": "10AM to 10PM"
+                },
+                {
+                    "Tuesday": "closed"
+                },
+                {
+                    "Wednesday": "10AM to 10PM"
+                },
+                {
+                    "Thursday": "11AM to 10PM"
+                },
+                {
+                    "Friday": "10AM to 11PM"
+                },
+                {
+                    "Saturday": "10AM to 11PM"
+                },
+                {
+                    "Sunday": "closed"
+                }
+            ]
         },
         {
             "name": "Dave's Desserts",
             "offers": [ "Every Tuesday when you buy 2 doughnuts you get another half price", "Get 2 desserts for the price of 3 on Thursdays" ],
-            "description": [ "unhealthy", "Sweet" ]
+            "description": [ "unhealthy", "sugary" ],
+            "openingHours": [
+                {
+                    "Monday": "11AM to 11PM"
+                },
+                {
+                    "Tuesday": "closed"
+                },
+                {
+                    "Wednesday": "11AM to 10PM"
+                },
+                {
+                    "Thursday": "11AM to 10PM"
+                },
+                {
+                    "Friday": "11AM to 11PM"
+                },
+                {
+                    "Saturday": "11AM to 11PM"
+                },
+                {
+                    "Sunday": "closed"
+                }
+            ]
         },
         {
             "name": "Sid's Sandwich Shop",
             "offers": [ "30% student discount", "On Mondays buy a sandwich and get a drink free", "Get a kids sandwich free when you spend £10 or more" ],
-            "description": [ "healthy", "quick" ]
+            "description": [ "healthy", "quick" ],
+            "openingHours": [
+                {
+                    "Monday": "10AM to 6PM"
+                },
+                {
+                    "Tuesday": "10AM to 5PM"
+                },
+                {
+                    "Wednesday": "10AM to 6PM"
+                },
+                {
+                    "Thursday": "11AM to 5PM"
+                },
+                {
+                    "Friday": "10AM to 5PM"
+                },
+                {
+                    "Saturday": "closed"
+                },
+                {
+                    "Sunday": "closed"
+                }
+            ]
         }
     ]
 }
