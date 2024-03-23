@@ -41,25 +41,32 @@
             "description": [ "unhealthy", "quick" ],
             "openingHours": [
                 {
-                    "Monday": "9AM to 9PM"
+                    "day": "Monday",
+                    "hours": "9AM to 9PM"
                 },
                 {
-                    "Tuesday": "11AM to 9PM"
+                    "day": "Tuesday",
+                    "horus": "11AM to 9PM"
                 },
                 {
-                    "Wednesday": "10AM to 10PM"
+                    "day": "Wednesday",
+                    "hours": "10AM to 10PM"
                 },
                 {
-                    "Thursday": "11AM to 10PM"
+                    "day": "Thursday",
+                    "hours": "11AM to 10PM"
                 },
                 {
-                    "Friday": "10AM to 11PM"
+                    "day": "Friday",
+                    "hours": "10AM to 11PM"
                 },
                 {
-                    "Saturday": "10AM to 11PM"
+                    "day": "Saturday",
+                    "hours": "10AM to 11PM"
                 },
                 {
-                    "Sunday": "11AM to 4PM"
+                    "day": "Sunday",
+                    "hours": "11AM to 4PM"
                 }
             ]
         },
@@ -69,25 +76,32 @@
             "description": [ "unhealthy" ],
             "openingHours": [
                 {
-                    "Monday": "10AM to 10PM"
+                    "day": "Monday",
+                    "hours": "10AM to 10PM"
                 },
                 {
-                    "Tuesday": "closed"
+                    "day": "Tuesday",
+                    "hours": "closed"
                 },
                 {
-                    "Wednesday": "10AM to 10PM"
+                    "day": "Wednesday",
+                    "hours": "10AM to 10PM"
                 },
                 {
-                    "Thursday": "11AM to 10PM"
+                    "day": "Thursday",
+                    "hours": "11AM to 10PM"
                 },
                 {
-                    "Friday": "10AM to 11PM"
+                    "day": "Friday",
+                    "hours": "10AM to 11PM"
                 },
                 {
-                    "Saturday": "10AM to 11PM"
+                    "day": "Saturday",
+                    "hours": "10AM to 11PM"
                 },
                 {
-                    "Sunday": "closed"
+                    "day": "Sunday",
+                    "hours": "closed"
                 }
             ]
         },
@@ -97,25 +111,32 @@
             "description": [ "unhealthy", "sugary" ],
             "openingHours": [
                 {
-                    "Monday": "11AM to 11PM"
+                    "day": "Monday",
+                    "hours": "11AM to 11PM"
                 },
                 {
-                    "Tuesday": "closed"
+                    "day": "Tuesday",
+                    "hours": "closed"
                 },
                 {
-                    "Wednesday": "11AM to 10PM"
+                    "day": "Wednesday",
+                    "hours": "11AM to 10PM"
                 },
                 {
-                    "Thursday": "11AM to 10PM"
+                    "day": "Thursday",
+                    "hours": "11AM to 10PM"
                 },
                 {
-                    "Friday": "11AM to 11PM"
+                    "day": "Friday",
+                    "hours": "11AM to 11PM"
                 },
                 {
-                    "Saturday": "11AM to 11PM"
+                    "day": "Saturday",
+                    "hours": "11AM to 11PM"
                 },
                 {
-                    "Sunday": "closed"
+                    "day": "Sunday",
+                    "hours": "closed"
                 }
             ]
         },
@@ -125,25 +146,32 @@
             "description": [ "healthy", "quick" ],
             "openingHours": [
                 {
-                    "Monday": "10AM to 6PM"
+                    "day": "Monday",
+                    "hours": "10AM to 6PM"
                 },
                 {
-                    "Tuesday": "10AM to 5PM"
+                    "day": "Tuesday",
+                    "hours": "10AM to 5PM"
                 },
                 {
-                    "Wednesday": "10AM to 6PM"
+                    "day": "Wednesday",
+                    "hours": "10AM to 6PM"
                 },
                 {
-                    "Thursday": "11AM to 5PM"
+                    "day": "Thursday",
+                    "hours": "11AM to 5PM"
                 },
                 {
-                    "Friday": "10AM to 5PM"
+                    "day": "Friday",
+                    "hours": "10AM to 5PM"
                 },
                 {
-                    "Saturday": "closed"
+                    "day": "Saturday",
+                    "hours": "closed"
                 },
                 {
-                    "Sunday": "closed"
+                    "day": "Sunday",
+                    "hours": "closed"
                 }
             ]
         }
